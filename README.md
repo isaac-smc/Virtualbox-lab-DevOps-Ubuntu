@@ -1,12 +1,23 @@
+* Este repositório foi criado para ajudar iniciantes em DevOps a montarem um laboratório totalmente gratuito utilizando o VirtualBox 🖥 e o Ubuntu Linux 🐧.
+
+A ideia é fornecer um ambiente de prática acessível, onde você pode:
+	•	Treinar conceitos de infraestrutura ⚙
+	•	Testar automatizações com Shell Script, Ansible e outras ferramentas 🔧
+	•	Simular cenários de Cloud e DevOps ☁🚀
+	•	Aprender de forma prática, sem precisar contratar serviços pagos 
+
+
+
+
 🔹 Passo 1 – Baixar o VirtualBox
-	•	Acesse o site oficial do VirtualBox 👉 [colocar link aqui]
+	•	Acesse o site oficial do VirtualBox 👉 [https://www.virtualbox.org/]
 	•	Escolha a versão compatível com o seu sistema operacional (Windows, macOS ou Linux).
 	•	Baixe e instale normalmente (Next > Next > Finish).
 
 ⸻
 
 🔹 Passo 2 – Baixar a ISO do Ubuntu
-	•	Acesse o site oficial do Ubuntu 👉 [colocar link aqui]
+	•	Acesse o site oficial do Ubuntu 👉 [https://ubuntu.com/download]
 	•	Baixe a versão LTS (Long Term Support), recomendada para maior estabilidade.
 
 ⸻
